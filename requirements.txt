@@ -1,4 +1,3 @@
-absl-py @ file:///C:/ci/absl-py_1624299085608/work
 alabaster==0.7.10
 anaconda-client==1.6.14
 anaconda-project==0.8.2
