@@ -1,5 +1,3 @@
-absl-py @ file:///C:/ci/absl-py_1623867338309/work
-aiohttp @ file:///C:/ci/aiohttp_1632749658027/work
 astor==0.8.1
 astunparse==1.6.3
 async-timeout==3.0.1
